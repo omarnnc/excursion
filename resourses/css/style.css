@@ -1,13 +1,18 @@
 html {
   background-color: black;
+  align-items: center;
   text-align: center;
   font-family: Verdana;
 }
+
 h1,h2 {color: white;}
 h1 {font-size: 50px;}
 h2{font-size: 42px;}
-h3 {
+p {
   font-size: 21px;
   color: gray;
 }
-p {color: Aquamarine;}
+a {color: Aquamarine;}
+.cpy{
+  text-align: right;
+}
